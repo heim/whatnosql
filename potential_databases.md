@@ -22,3 +22,4 @@ Databases who should be included in the list:
 - Elastic Search
 - Voldemort
 - ArrangoDB
+- Titan
