@@ -19,6 +19,9 @@ Neo4j is a mature graph database used by major actors [reference].
 
 Neo4j supports querying with a proprietary query language, CYPHER [reference]. For more advanced queries one can use the Java APIs (Core and Traversal) [reference]
 
+## Tooling
+Web based admin interface deployed with the standalone REST server (http://www.neo4j.org/tracks/neo4j_server) and shell (http://docs.neo4j.org/chunked/milestone/shell.html).
+
 ## Import (?)
 One may import data from csv files, or via custom import routines.
 
