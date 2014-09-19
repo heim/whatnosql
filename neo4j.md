@@ -1,8 +1,15 @@
 # Neo4j
 
-Paradigm: Graph
-Vendor-supported clients: Java
-Open-source clients: NodeJS (experimental), Ruby, Clojure (+++)
+## Quick glance
+
+**Paradigm**: Graph
+
+**Made by**: Neo Technologies [link]
+
+**Vendor-supported clients**: Java
+
+**Open-source clients**: NodeJS (experimental), Ruby, Clojure (+++)
+
 
 ## Description
 
