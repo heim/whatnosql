@@ -38,7 +38,7 @@ Three license-models: AGPLv3, GPLv3 or Enterprise Licence.
 
 ## Is a good fit for:
 
-Highly relational data, social networks or graph-like data structures.
+Highly relational data, social networks, fraud detection or general graph-like data structures. Queries should always start in a small set of nodes and traverse the database from there.
 
 ## Limitations
 
@@ -46,9 +46,9 @@ The database can't be sharded. Requires fast disks and lots of memory. Neo4j wor
 
 ## Good places to start
 
-Tutorial: http://docs.neo4j.org/chunked/stable/tutorials.html
-Cypher reference: http://docs.neo4j.org/refcard/2.0/
-Graph Databases, the book: http://graphdatabases.com/
-Introduction to graph databases by Jim Webber: http://watch.neo4j.org/video/68905994
-Lots of tutorials: http://gist.neo4j.org/
+* Tutorial: http://docs.neo4j.org/chunked/stable/tutorials.html
+* Cypher reference: http://docs.neo4j.org/refcard/2.0/
+* Graph Databases, the book: http://graphdatabases.com/
+* Introduction to graph databases by Jim Webber: http://watch.neo4j.org/video/68905994
+* Lots of tutorials: http://gist.neo4j.org/
 
