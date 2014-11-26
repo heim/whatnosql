@@ -37,7 +37,7 @@ Datomic is accesible via the Peer Library, but also has an experimental REST int
 
 ## Implementation
 
-Neo4j is implemented in Java and Clojure. 
+Datomic is implemented in Java and Clojure. 
 
 ## Licensing
 
