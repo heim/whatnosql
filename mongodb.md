@@ -13,6 +13,7 @@ Querying in MongoDB is done with a Javascript interface. Most often however when
 ## Tooling
 
 ## Import (?)
+MongoDB natively has a [import command](http://docs.mongodb.org/ecosystem/drivers/) that accepts JSON, CSV and TSV. In addition there are various [supported](https://github.com/10gen-labs/mongo-connector) and third-party connectors for syncing with different databases.
 
 ## Interface
 
