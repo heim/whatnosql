@@ -4,7 +4,7 @@
 
 **Paradigm**: Row-oriented, graph, key-value and column-oriented.  [https://www.youtube.com/watch?v=YSriFOsoP7g#t=404]
 
-**Made by**: Cognitet [http://cognitect.com/]
+**Made by**: Cognitect [http://cognitect.com/]
 
 **Vendor-supported clients**: Java and Clojure. Accesible for all languages on the JVM. 
 
