@@ -26,7 +26,7 @@ REST-enabled. There is also possible to use native clients to connect right into
 
 
 ## Interface
-Neo4j may be used as embedded or as a standalone cluster.
+May be used as embedded or as a standalone cluster.
 
 ## Implementation
 Hazelcast is implemented i Java
