@@ -29,7 +29,7 @@ Redis is accessed via the clients [http://redis.io/clients]. Not all clients sup
 
 ## Implementation
 
-Neo4j is implemented in C.
+Redis is implemented in C.
 
 ## Licensing
 
