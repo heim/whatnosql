@@ -23,3 +23,4 @@ Databases who should be included in the list:
 - Voldemort
 - ArrangoDB
 - Titan
+- Hazelcast
