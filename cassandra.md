@@ -12,7 +12,7 @@
 
 
 ## Description
- Cassandra is a mature database used by my well known companies [[http://www.datastax.com/customers](http://www.datastax.com/customers)].
+ Cassandra is a mature database used by my major actors [[http://www.datastax.com/customers](http://www.datastax.com/customers)].
 
 ## Querying
 
@@ -41,12 +41,6 @@ Fraud detection, personalization, Internet of things, Write-intensive applicatio
 
 ## Limitations
 
-## Used by
-* Spotify
-* Netflix
-* Finn.no
-* Ebay
-* Apple
 
 ## Good places to start
 
