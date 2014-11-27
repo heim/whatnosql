@@ -43,6 +43,10 @@ Apache License 2.0.
 
 Fraud detection, Recommendation, Personalization, Sensor data, Internet of things, Write-intensive applications, Product catalog, Playlist, Messaging, Always available, Easily scalable
 
+## Supported operating systems
+
+Linux, Windows 7+, Windows 2008 server+, Mac OS X
+
 ## Limitations
 
 Joins and subqueries are not supported. Aggregations are limited like Apache Solr and Apache Spark is often used to provide search- and aggregations. A column value may not be larger than 2GB. The maximum number of columns for a single row is 2 billion. 
