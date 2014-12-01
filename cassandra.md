@@ -4,7 +4,7 @@
 
 **Paradigm**: Wide Column Store
 
-**Made by**: Datastax [http://hwww.datastax.com/]
+**Made by**: Datastax (originated from Facebook) [http://hwww.datastax.com/]
 
 **Vendor-supported clients**: Java, C#, Node.js, Python, Ruby, C++
 
@@ -12,11 +12,12 @@
 
 
 ## Description
- Cassandra is a mature database used by my major actors [[http://www.datastax.com/customers](http://www.datastax.com/customers)].
+
+Cassandra is a mature database used by my major actors [[http://www.datastax.com/customers](http://www.datastax.com/customers)]. It is the right choice when you need scalability and high availability without compromising performance.
 
 ## Querying
 
-Cassandra supports querying with a custom-made query-language, [CQL](http://www.datastax.com/documentation/cql/3.1/cql/cql_using/about_cql_c.html). 
+Cassandra supports querying with a custom-made query-language, [CQL](http://www.datastax.com/documentation/cql/3.1/cql/cql_using/about_cql_c.html), or through a variety of vendor- and open-source client. 
 
 ## Tooling
 
@@ -28,6 +29,8 @@ Import data from csv-files.
 
 ## Interface
 
+Standalone servers.
+
 ## Implementation
 
 Cassandra is implemented in Java.
@@ -37,10 +40,16 @@ Cassandra is implemented in Java.
 Apache License 2.0.
 
 ## Is a good fit for:
-Fraud detection, personalization, Internet of things, Write-intensive applications, 
+
+Fraud detection, Recommendation, Personalization, Sensor data, Internet of things, Write-intensive applications, Product catalog, Playlist, Messaging, Always available, Easily scalable
+
+## Supported operating systems
+
+Linux, Windows 7+, Windows 2008 server+, Mac OS X
 
 ## Limitations
 
+Joins and subqueries are not supported. Aggregations are limited like Apache Solr and Apache Spark is often used to provide search- and aggregations. A column value may not be larger than 2GB. The maximum number of columns for a single row is 2 billion. 
 
 ## Good places to start
 
