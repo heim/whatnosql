@@ -5,10 +5,10 @@
 **Made by**: MongoDB, Inc.
 
 ## Description
-MongoDB is a widely adopted open-source [Document-store](www.nosql.com).
+MongoDB is a [widely adopted](http://db-engines.com/en/ranking) [open-source](https://github.com/mongodb/mongo) [Document-store](www.nosql.com).
 
 ## Querying
-Querying in MongoDB is done with a Javascript interface. Most often however when developing applications you would use one of the many native drivers out [there](http://docs.mongodb.org/ecosystem/drivers/). Querying is developer centric as the query language is natively javascript code.
+Querying in MongoDB is done with a [Javascript interface](http://docs.mongodb.org/manual/tutorial/query-documents/). Most often however when developing applications you would use one of the many native drivers out [there](http://docs.mongodb.org/ecosystem/drivers/). Querying is developer centric as the query language is natively javascript code not a [DSL](http://en.wikipedia.org/wiki/Domain-specific_language).
 
 ## Tooling
 
@@ -29,7 +29,7 @@ mongodb.org supported drivers: Apache License v2.0.
 third party drivers varies
 
 ## Is a good fit for:
-Because of flexible schemas good fit for hetrogeneous data.
+Because of flexible schemas good fit for heterogeneous data.
 E.g. Product data
 
 Rapid development, prototyping, easy access javascript API.
